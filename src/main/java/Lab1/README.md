@@ -11,4 +11,4 @@ COMP3111 SOFTWARE ENGINEERING
 - **IntelliJ IDEA Community Edition**
 
 ## Screenshot
-![screenshot on IntelliJ](src/main/java/Lab1/img_1.png)
+![screenshot on IntelliJ](img_1.png)
