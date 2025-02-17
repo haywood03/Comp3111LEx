@@ -9,3 +9,6 @@ COMP3111 SOFTWARE ENGINEERING
 ## Software Development Environment
 - **Java SE Development Kit JDK 21**
 - **IntelliJ IDEA Community Edition**
+
+## Screenshot
+![screenshot on IntelliJ](/img_1.png)
